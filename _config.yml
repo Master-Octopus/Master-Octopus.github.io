@@ -22,14 +22,16 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "handsome.png"
   name             : "Yiwei Wang"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering & Robotics & AI"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan"
   uri              : # URL
-  email            : "2143232132@qq.com" 
+  personal email   : "2143232132@qq.com" 
+  working email    : "wyiwei@umich.edu"
+  Phone number     : "+86 19883037271"
 
   # Academic websites
   academia         : # URL
@@ -46,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "Master-Octopus"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
