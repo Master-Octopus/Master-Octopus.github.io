@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "handsome.png"
+  avatar           : "images/handsome.png"
   name             : "Yiwei Wang"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering & Robotics & AI"
   location         : "Ann Arbor, Michigan"
-  employer         : "University of Michigan"
+  employer         : "University of Michigan, Ann Arbor"
   uri              : # URL
   personal email   : "2143232132@qq.com" 
   working email    : "wyiwei@umich.edu"
