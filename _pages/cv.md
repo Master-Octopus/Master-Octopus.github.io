@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
 * M.S. in Mechanical Engineering, The University of Michigan, Ann Arbor, 2027 (expected)

@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Surrogate-based Multifidelity Robust Optimization for Ducted Fan Blade Aerodynamic Design"
+excerpt: "a multifidelity robust optimization approach for the aerodynamic design of ducted fan blades, integrating high-fidelity CFD simulations with low-fidelity models to efficiently quantify uncertainty and enhance performance while minimizing computational costs. The results show improved aerodynamic performance with reduced variability in key metrics.<br/><img src='/images/MEAEpaper.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+a multifidelity robust optimization approach for the aerodynamic design of ducted fan blades, integrating high-fidelity CFD simulations with low-fidelity models to efficiently quantify uncertainty and enhance performance while minimizing computational costs. The results show improved aerodynamic performance with reduced variability in key metrics.

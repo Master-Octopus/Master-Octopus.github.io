@@ -1,16 +1,17 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
-    "phone": "",
+    "name": "Yiwei Wang",
+    "Personal Email": "2143232132@qq.com",
+    "Working Email": "wyiwei@umcih.edu",
+    "Telephone": "+86 19883037271",
     "website": "https://academicpages.github.io",
     "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "Ann Arbor",
       "countryCode": "US",
-      "region": ""
+      "region": "Michigan State"
     },
     "profiles": [
       {
@@ -31,69 +32,111 @@
     ]
   },
   "work": [],
+
   "education": [
+    
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "University of Michigan, Ann Arbor",
+      "area": "M.S. in Mechanical Engineering (Concentration: Robotics)",
       "studyType": "",
       "startDate": "",
-      "endDate": "2018",
+      "endDate": "2027 (expected)",
       "gpa": null,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "University of Nottingham, Ningbo, China",
+      "area": "B.S. in Aerespace Engineering",
       "studyType": "",
       "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
+      "endDate": "2027",
+      "gpa": 3.84,
+      "Core courses": []
     }
   ],
-  "skills": [],
-  "languages": [],
-  "interests": [],
+
+  "skills": ["Ansys", "MATLAB Simulink", "MATLAB Simscape", "Python", "C#", "HTML", "CSS", "Solidworks", "3DExperience", "CAD", "Visio", "Adobe", "Gasturb", "Gmabit", "Mission Planner"],
+  "languages": ["English (fluent)", "Chinese (native)"],
+  "interests": ["Robotics","basketball"],
   "references": [],
+
+  "Research Experiences":
+  [
+  {
+  "Date":"06/2024--08/2024",
+  "Institution":"Faculty of Science and Engineering, UNNC",
+  "Role":"Research Assistant",
+  "Subject":"Prototype Development of a 3 Degree-of-Freedom Parallel",
+  "Descriptions": [
+  "• Prototype Development of a 3 Degree-of-Freedom Parallel",
+  "• Responsible for building a model of a 3-degree-of-freedom parallel actuator based on existing research, especially from the book Robot Modelling and Control",
+  "• Designed the trajectory of the actuator by drawing on knowledge of statistics and dynamics, gaining knowledge about robot modelling and control",
+  "• Applied theoretical knowledge in control of aerospace systems, dynamics, and flight mechanics to solve a practical problem"
+]
+  },
+  
+  {
+    "Date": "06/2023-08/2023",
+    "Institution": "Faculty of Science and Engineering, UNNC",
+    "Role": "Research Assistant",
+    "Subject": "Multidisciplinary Design Optimization of Propeller Performance and Noise Project",
+    "Descriptions": [
+      "• Modelled the propeller design using SolidWorks",
+      "• Carried out CFD analysis using Ansys, specifically CFX and CFD (Fluent) to simulate the different blade performances of the vehicle",
+      "• Gained knowledge of control principles"
+    ]
+  },
+
+  {
+    "Date": "01/2023-05/2023",
+    "Institution": "The control lab, UNNC",
+    "Role": "Research Assistant",
+    "Subject": "Tail-Sitter Vertical Take-Off and Landing (VTOL) Drone Project",
+    "Descriptions": [
+      "• Applied control theory to enable the drone to operate successfully in the main phases of flight (take-off, landing, and cruise)",
+      "• Used principles of UAV electronic control system and Simulink software to stabilize the flight of the drone"
+    ]
+  },
+
+
+  {
+    "Date": "09/2022-12/2022",
+    "Institution": "Advanced Manufacturing Centre, UNNC",
+    "Role": "Research Assistant",
+    "Subject": "Design and development of 5 Axis Industrial Cutting Machine Project",
+    "Descriptions": [
+      "• Liaised with company to determine project requirements",
+      "• Gained knowledge of integrated circuits while working on the project",
+      "• Integrated C programme for automating the probes object detection and tilt angle",
+      "• Demonstrated excellent communication skills when speaking to various teams within the company"
+    ]
+  },
+
+{
+    "Date": "05/2024-12/2024",
+    "Institution": "ASME K-16/IEEE EPS 2024 Design Competition, United States",
+    "Role": "Team leader",
+    "Subject": "Design and development of a type of heat sink with good heat transfer performance and light weight",
+    "description": [
+        "• Led my team to design an efficient heat sink, achieving a runner-up award",
+        "• Carried out CFD analysis to optimise the design and incorporated design features to allow the component to be 3D printable"
+      ]
+    }
+  ],
+
+
+
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "Surrogate-based Multifidelity Robust Optimization for Ducted Fan Blade Aerodynamic Design",
+      "publisher": "MEAE 2024",
+      "releaseDate": "",
+      "website": "http://academicpages.github.io/files/MEAE_Multifidelity%20Robust%20Optimization.pdf",
+      "summary": "The paper introduces a multifidelity robust optimization method for ducted fan blade design, combining high-fidelity CFD models with surrogate modeling."
     }
   ],
+
+
   "presentations": [
     {
       "name": "Talk 1 on Relevant Topic in Your Field",
@@ -108,45 +151,7 @@
       "date": "2013-03-01",
       "location": "Berkeley, CA, USA",
       "description": ""
-    },
-    {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
-      "description": ""
-    },
-    {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
-      "description": ""
-    }
-  ],
-  "teaching": [
-    {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
-      "description": ""
-    },
-    {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
-      "description": ""
-    }
-  ],
-  "portfolio": [
-    {
-      "name": "Portfolio item number 1",
-      "category": "portfolio",
-      "date": "",
-      "url": "",
-      "description": "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
     }
   ]
+  
 }

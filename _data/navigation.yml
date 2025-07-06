@@ -12,8 +12,13 @@ main:
   - title: "CV"
     url: /cv/
 
+  # - title: "CV"
+  #   url: /cv-json/
+
   - title: "Portfolio"
-    url: /portfolio/
+    url: /psortfolio/
+
+  
 
   - title: "Publications"
     url: /publications/  
@@ -21,9 +26,6 @@ main:
   - title: "Award"
     url: /award/
     
-    
-  # - title: "CV"
-  #   url: /cv-json/
-    
+  
   - title: "Guide"
     url: /markdown/

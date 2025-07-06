@@ -22,15 +22,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "images/handsome.png"
+  avatar           : "handsome.png"
   name             : "Yiwei Wang"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineering & Robotics & AI"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan, Ann Arbor"
   uri              : # URL
-  personal email   : "2143232132@qq.com" 
-  working email    : "wyiwei@umich.edu"
+  Personal email   : "2143232132@qq.com" 
+  Working email    : "wyiwei@umich.edu"
   Phone number     : "+86 19883037271"
 
   # Academic websites
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : “Yiwei Wang”
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
